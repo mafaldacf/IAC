@@ -3,7 +3,7 @@
 Develop a simple dinossaur game similar to Dino from Chrome browser
 
 ## First Delivery
-Develop backend code with vectors containing information of the game field and objects.
+Develop backend code with all the information of the game field and objects.
 * [Project Guidelines](https://github.com/mafaldacf/IST-IAC/blob/main/proj1/Guidelines.pdf)
 
 ## Second Delivery
