@@ -1,6 +1,6 @@
 # IST-IAC 2020/2021
 
-Develop a simple dinossaur game similar to Dino from Chrome browser
+Develop a simple dinossaur game similar to Dino from Chrome browser.
 
 ## First Delivery
 Develop backend code with all the information of the game field and objects.
